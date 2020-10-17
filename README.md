@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello There 👋
 
-<!--
-**Sympthey/Sympthey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Social Media:
+[Youtube](https://www.youtube.com/channel/UCG-oO6m-iOuonFUbk6HU67w?view_as=subscriber)
 
-Here are some ideas to get you started:
+[Instagram](https://www.instagram.com/Sympthey/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Twitter](https://twitter.com/Sympthey)
+
+[Discord](Sympthey#9640)
+
+## Project Ideas?
+If you have any ideas or improvements I can make to my repos message me on any of my social media.
