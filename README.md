@@ -1,11 +1,15 @@
-# Hello There 👋
 
-### Social Media:
-[Instagram](https://www.instagram.com/Sympthey/)
+<h2 align="center">Sympthey's Stats</h2>
+<a href="https://github.com/Sympthey">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Sympthey" alt="Profile Views Count">
+  </p>
+</a>
 
-[Twitter](https://twitter.com/Sympthey)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=Sympthey&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+</p>
 
-Discord: Sympthey#9308
-
-## Project Ideas?
-If you have any ideas or improvements I can make to my repos message me on any of my social media.
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/767023083768250379.png" />
+</p>
