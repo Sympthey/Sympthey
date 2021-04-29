@@ -1,15 +1,12 @@
+### Hi there 👋, Sympthey
+![](https://discord.c99.nl/widget/theme-4/767023083768250379.png)
 
-<h2 align="center">Sympthey's Stats</h2>
-<a href="https://github.com/Sympthey">
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Sympthey" alt="Profile Views Count">
-  </p>
-</a>
+I get bored a lot. I like to code. Feel free to contact me if there is something you would like me to code.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=Sympthey&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
-</p>
+Skills: PYTHON / GOLANG / C /C#
 
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/767023083768250379.png" />
-</p>
+- 🔭 I’m currently working on this page.GHJ 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GHJGHJGHJ)  
+
